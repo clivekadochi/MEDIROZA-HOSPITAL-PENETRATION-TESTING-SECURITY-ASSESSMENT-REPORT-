@@ -93,7 +93,7 @@ The primary objectives of this assessment were:
 
 <img src="https://github.com/clivekadochi/MEDIROZA-HOSPITAL-PENETRATION-TESTING-SECURITY-ASSESSMENT-REPORT-/blob/b01a15201c4e80a9e39bfe1d20659e5827978b94/Screenshot%202026-09-30%20164039%20SQL%20%20test.png" width="1366" height="768" />
 
-<img src="" width="1366" height="768" />
+<img src="https://github.com/clivekadochi/MEDIROZA-HOSPITAL-PENETRATION-TESTING-SECURITY-ASSESSMENT-REPORT-/blob/437fecae05f8a7d43764d90b734528ef7c29de8f/Screenshot%202026-09-30%20164449%20lab%20reports.png" width="1366" height="768" />
 
 
 ## 🔬 Assessment Methodology
