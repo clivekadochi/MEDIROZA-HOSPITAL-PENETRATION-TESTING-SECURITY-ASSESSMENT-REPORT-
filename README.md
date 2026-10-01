@@ -79,7 +79,7 @@ The primary objectives of this assessment were:
 
 <img src="https://github.com/clivekadochi/MEDIROZA-HOSPITAL-PENETRATION-TESTING-SECURITY-ASSESSMENT-REPORT-/blob/989aa9a01241cd047e66d8251317c5f22ef077d7/2026-09-30%20224143.png" width="1366" height="768" />
 
-<img src="https://github.com/clivekadochi/PASSWORD-CRACKING-WITH-JTR-AND-NETWORKWALKS-TOOLS/blob/331e79976955442b009149558dda8c1beca44efe/Screenshot%202026-09-20%20173830%20Hash%20extractor.png" width="1366" height="768" />
+<img src="https://github.com/clivekadochi/MEDIROZA-HOSPITAL-PENETRATION-TESTING-SECURITY-ASSESSMENT-REPORT-/blob/3c2a278892b41b7a86fa51f2e5187201b4eab1e9/2026-09-30%20225409.png" width="1366" height="768" />
 
 <img src="https://github.com/clivekadochi/PASSWORD-CRACKING-WITH-JTR-AND-NETWORKWALKS-TOOLS/blob/331e79976955442b009149558dda8c1beca44efe/Screenshot%202026-09-20%20173830%20Hash%20extractor.png" width="1366" height="768" />
 
