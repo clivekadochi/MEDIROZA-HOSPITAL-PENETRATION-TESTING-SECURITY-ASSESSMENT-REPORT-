@@ -85,15 +85,15 @@ The primary objectives of this assessment were:
 
 <img src="https://github.com/clivekadochi/MEDIROZA-HOSPITAL-PENETRATION-TESTING-SECURITY-ASSESSMENT-REPORT-/blob/4170cd00a042a0c84c2ce61d790fd85cca6395c6/2026-09-30%20231223.png" width="1366" height="768" />
 
+<img src="https://github.com/clivekadochi/MEDIROZA-HOSPITAL-PENETRATION-TESTING-SECURITY-ASSESSMENT-REPORT-/blob/5bc6ef4161707897a03546dced7ee89ab5102562/Screenshot%202026-09-30%20063649%20login%20form.png" width="1366" height="768" />
+
 <img src="" width="1366" height="768" />
 
-<img src="https://github.com/clivekadochi/PASSWORD-CRACKING-WITH-JTR-AND-NETWORKWALKS-TOOLS/blob/331e79976955442b009149558dda8c1beca44efe/Screenshot%202026-09-20%20173830%20Hash%20extractor.png" width="1366" height="768" />
+<img src="" width="1366" height="768" />
 
-<img src="https://github.com/clivekadochi/PASSWORD-CRACKING-WITH-JTR-AND-NETWORKWALKS-TOOLS/blob/331e79976955442b009149558dda8c1beca44efe/Screenshot%202026-09-20%20173830%20Hash%20extractor.png" width="1366" height="768" />
+<img src="" width="1366" height="768" />
 
-<img src="https://github.com/clivekadochi/PASSWORD-CRACKING-WITH-JTR-AND-NETWORKWALKS-TOOLS/blob/331e79976955442b009149558dda8c1beca44efe/Screenshot%202026-09-20%20173830%20Hash%20extractor.png" width="1366" height="768" />
-
-<img src="https://github.com/clivekadochi/PASSWORD-CRACKING-WITH-JTR-AND-NETWORKWALKS-TOOLS/blob/331e79976955442b009149558dda8c1beca44efe/Screenshot%202026-09-20%20173830%20Hash%20extractor.png" width="1366" height="768" />
+<img src="" width="1366" height="768" />
 
 
 ## 🔬 Assessment Methodology
