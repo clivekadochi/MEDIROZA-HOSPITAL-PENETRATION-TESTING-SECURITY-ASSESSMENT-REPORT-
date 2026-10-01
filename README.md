@@ -94,3 +94,21 @@ Risk Analysis
 Remediation Recommendations
       ↓
 Final Report
+## 🗃 8. Evidences Collected
+ 
+<img src=""1366" height="768" />
+<img src="" height="768" />
+<img src="" height="768" />
+<img src=""1366" height="768" />
+<img src="" height="768" />
+<img src=""768" />
+<img src="" /> 
+ 
+ 
+ 
+
+ 
+ 
+
+-End-
+
