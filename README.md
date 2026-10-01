@@ -75,8 +75,6 @@ The primary objectives of this assessment were:
 
 ## 🗃 8. Evidences Collected
 
-<img src="https://github.com/clivekadochi/MEDIROZA-HOSPITAL-PENETRATION-TESTING-SECURITY-ASSESSMENT-REPORT-/blob/cd76309a57f549aac69208e58e1d7d1d8944c322/Screenshot%202026-09-30%20164039%20SQL%20%20test.png" width="1366" height="768" />
-
 <img src="https://github.com/clivekadochi/MEDIROZA-HOSPITAL-PENETRATION-TESTING-SECURITY-ASSESSMENT-REPORT-/blob/745397de3a184547d601a38d2888d190e5cff7ea/Screenshot%202026-09-30%20163635%20username%20not%20found.png" width="1366" height="768" />
 
 <img src="https://github.com/clivekadochi/MEDIROZA-HOSPITAL-PENETRATION-TESTING-SECURITY-ASSESSMENT-REPORT-/blob/6b3281fe83f0376d08cf8ca6477a909b48dbce10/Screenshot%202026-09-30%20163812%20incorrect%20password.png" width="1366" height="768" />
@@ -90,14 +88,6 @@ The primary objectives of this assessment were:
 <img src="https://github.com/clivekadochi/MEDIROZA-HOSPITAL-PENETRATION-TESTING-SECURITY-ASSESSMENT-REPORT-/blob/c0616acc459503eb3bb5d6c5c56315e4411138e1/2026-09-30%20231151.png" width="1366" height="768" />
 
 <img src="https://github.com/clivekadochi/MEDIROZA-HOSPITAL-PENETRATION-TESTING-SECURITY-ASSESSMENT-REPORT-/blob/4170cd00a042a0c84c2ce61d790fd85cca6395c6/2026-09-30%20231223.png" width="1366" height="768" />
-
-<img src="https://github.com/clivekadochi/MEDIROZA-HOSPITAL-PENETRATION-TESTING-SECURITY-ASSESSMENT-REPORT-/blob/5bc6ef4161707897a03546dced7ee89ab5102562/Screenshot%202026-09-30%20063649%20login%20form.png" width="1366" height="768" />
-
-
-
-
-
-
 
 <img src="https://github.com/clivekadochi/MEDIROZA-HOSPITAL-PENETRATION-TESTING-SECURITY-ASSESSMENT-REPORT-/blob/437fecae05f8a7d43764d90b734528ef7c29de8f/Screenshot%202026-09-30%20164449%20lab%20reports.png" width="1366" height="768" />
 
