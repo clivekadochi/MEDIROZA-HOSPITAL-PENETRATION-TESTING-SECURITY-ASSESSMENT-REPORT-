@@ -115,9 +115,6 @@ Risk Analysis
 Remediation Recommendations
       ↓
 Final Report
-## 🗃 8. Evidences Collected
- 
- 
 
 -End-
 
