@@ -101,7 +101,6 @@ The primary objectives of this assessment were:
 The assessment followed a structured workflow:
 
 ```text
-<img src="https://github.com/clivekadochi/PASSWORD-CRACKING-WITH-JTR-AND-NETWORKWALKS-TOOLS/blob/331e79976955442b009149558dda8c1beca44efe/Screenshot%202026-09-20%20173830%20Hash%20extractor.png" width="1366" height="768" />
 
 Reconnaissance
       ↓
